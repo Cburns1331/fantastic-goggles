@@ -1,0 +1,8 @@
+apache-maven-*
+BuildData/
+Bukkit/
+CraftBukkit/
+Spigot/*
+work/*
+BuildTools.log.txt
+spigot*
