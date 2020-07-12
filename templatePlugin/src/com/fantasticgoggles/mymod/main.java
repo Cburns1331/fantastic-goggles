@@ -10,6 +10,7 @@ public final class main extends JavaPlugin {
 
 		// Commands enabled with following method must have entries in plugin.yml
 		getCommand("example").setExecutor(new command(this));
+		getServer().getPluginManager().registerEvents(new listener(), this);
 	}
 
 	@Override
