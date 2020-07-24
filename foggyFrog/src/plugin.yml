@@ -1,0 +1,9 @@
+main: com.fantasticgoggles.mymod.FoggyFrog
+name: FoggyFrog
+version: 1.0
+author: Chris Burns
+commands:
+  frogmode:
+    description: Enables you to be a frog!
+    usage: /frogmode
+      
