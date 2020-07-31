@@ -6,4 +6,3 @@ commands:
   frogmode:
     description: Enables you to be a frog!
     usage: /frogmode
-      
